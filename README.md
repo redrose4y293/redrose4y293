@@ -43,7 +43,7 @@ Working on Lot of the Projects
 ## Experience
 3+Years in Development And Prodcution.
 ## Education
-B.A
+ADP Computer Science
 ## Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([(https://www.linkedin.com/in/ehsan-nawaz-81641b18/)])
